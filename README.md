@@ -61,14 +61,6 @@ Currently, the script is set up to run the backup once when executed. To schedul
 
 ## License
 
-[Specify your license here, e.g., MIT, GPL, etc.]
-
-## Author
-
-[Your Name]
-
-## License
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
